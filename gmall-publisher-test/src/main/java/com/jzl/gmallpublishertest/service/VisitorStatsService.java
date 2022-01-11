@@ -25,5 +25,6 @@ public interface VisitorStatsService {
     public Long getPv(int date);
 
     public Long getUv(int date);
+    
 }
 
